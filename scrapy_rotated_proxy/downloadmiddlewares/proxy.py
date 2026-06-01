@@ -1,12 +1,8 @@
-import base64
 import logging
-import re
 import six
 from twisted.internet.defer import Deferred
 
 import scrapy_rotated_proxy.signals as proxy_signals
-
-from itertools import cycle
 
 import time
 

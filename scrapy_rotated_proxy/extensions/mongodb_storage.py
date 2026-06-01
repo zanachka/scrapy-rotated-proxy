@@ -1,5 +1,4 @@
 import logging
-from itertools import cycle
 
 from twisted.internet import defer
 from six.moves.urllib.parse import urlunparse

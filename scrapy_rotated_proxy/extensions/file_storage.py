@@ -1,9 +1,7 @@
 import re
 import json
 import six
-from itertools import cycle
 
-from scrapy.utils.misc import load_object
 from scrapy_rotated_proxy.extensions import default_settings
 from scrapy_rotated_proxy import util
 
