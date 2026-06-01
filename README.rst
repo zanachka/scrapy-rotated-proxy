@@ -6,10 +6,6 @@ Scrapy-Rotated-Proxy
    :target: https://pypi.python.org/pypi/scrapy-rotated-proxy
    :alt: PyPI Version
 
-.. image:: https://img.shields.io/travis/xiaowangwindow/scrapy-rotated-proxy/master.svg
-   :target: http://travis-ci.org/xiaowangwindow/scrapy-rotated-proxy
-   :alt: Build Status
-
 Overview
 ########
 
